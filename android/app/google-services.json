@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573273377369",
+    "firebase_url": "https://mafia-brew-crew-5efc0.firebaseio.com",
+    "project_id": "mafia-brew-crew-5efc0",
+    "storage_bucket": "mafia-brew-crew-5efc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573273377369:android:168c5f4d32cef767c8ff48",
+        "android_client_info": {
+          "package_name": "com.kshitijukey.brewcrew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573273377369-5m2qdb44lg0s0n463ojsauruv5j7klho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClr-pLvFySbft84n4i0zbbgqKxVLLnSXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573273377369-5m2qdb44lg0s0n463ojsauruv5j7klho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
